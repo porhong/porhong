@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 — but fixing even more with clean, maintainable code.<br>📚 I'm currently learning advanced state management patterns, edge rendering strategies in Next.js 15, and contributing to open-source React tooling.<br>🎯 Goals: To master full-stack app optimization, build component libraries with high reusability, and contribute to projects that make a real-world impact.<br>🎲 Fun fact: I transitioned from a software QA role to frontend development, which means I still spot bugs before they know they exist.</p>
+<p align="left">✨ Creating bugs since 2020 — but fixing even more with clean, maintainable code.<br>📚 I'm currently learning advanced state management patterns, edge rendering strategies in Next.js 15, and contributing to open-source React tooling.<br>🎯 Goals: To master full-stack app optimization, build component libraries with high reusability, and contribute to projects that make a real-world impact.<br>🎲 Fun fact: I transitioned from a software QA role to frontend development, which means I still spot bugs before they know they exist.</p>
 
 ###
 
