@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Porhong, Frontend Developer with over a year of professional experience building scalable and user-centric web applications using React.js, Next.js, Angular and TypeScript.</p>
+<p align="left">My name is Porhong, Fullstack Developer with over a year of professional experience building scalable and user-centric web applications using React.js, Next.js, Angular and TypeScript.</p>
 
 ###
 
